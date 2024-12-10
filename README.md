@@ -1,6 +1,6 @@
 # Joulescope JS220 uUSB Front Panel
 
-> ⚠️ This is a **read-only** mirror of a private SVN repository. See the [Product Page]() on Tindie.
+> ⚠️ This is a **read-only** mirror of a private SVN repository. See the [Product Page](https://www.tindie.com/products/empirical-ee/uusb-front-panel/) on Tindie.
 
 The uUSB FP is a versatile panel for the [Joulescope JS220](https://www.joulescope.com/products/js220-joulescope-precision-energy-analyzer) power analyser that enables power measurement of any USB device.
 
